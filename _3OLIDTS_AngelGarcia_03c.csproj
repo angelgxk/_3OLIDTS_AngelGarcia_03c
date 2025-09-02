@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{32C29C98-582A-42B9-BB6C-2EFA48023378}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>_3OLIDTS_EdgarPerez_03c</RootNamespace>
-    <AssemblyName>_3OLIDTS_EdgarPerez_03c</AssemblyName>
+    <RootNamespace>_3OLIDTS_AngelGarcia_03c</RootNamespace>
+    <AssemblyName>_3OLIDTS_AngelGarcia_03c</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
