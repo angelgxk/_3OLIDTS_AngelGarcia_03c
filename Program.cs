@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _3OLIDTS_EdgarPerez_03c
+namespace _3OLIDTS_AngelGarcia_03c
 {
     internal static class Program
     {
